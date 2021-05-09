@@ -3,10 +3,6 @@ Simple ray tracer using sfml library
 
 
 
-<p align="center">
-  <img src="/docs/readme/ray_tracing.jpg" width="350" height="250" />
-</p>
-
 
 ## Install
 
